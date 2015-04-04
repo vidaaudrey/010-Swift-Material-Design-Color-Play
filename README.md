@@ -1,11 +1,11 @@
-# 008-Building-A-Clock-Control-Framework
+# 010 Swift Material Design Color Palette 
 
 ![Snapshot 1](https://github.com/vidaaudrey/010-Swift-Material-Design-Color-Play/blob/master/_snapshot/snapshot.gif)
 
 ![Snapshot 2](https://github.com/vidaaudrey/010-Swift-Material-Design-Color-Play/blob/master/_snapshot/snapshot.png)
 
 
-**Description**: A simple material design color palette which shows the palette colors upon selection. 
+**Description**: A simple material design color palette that shows the palette colors upon selection. 
 
 
 **How to use**:
